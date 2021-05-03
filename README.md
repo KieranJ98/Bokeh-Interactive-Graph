@@ -1,4 +1,4 @@
-# Bokeh-Interactive-Graph
+# Bokeh-Interactive-Graph-Example
 Commented bokeh interactive graph example
 
 How to use:
