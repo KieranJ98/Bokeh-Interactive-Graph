@@ -51,7 +51,7 @@ def modify_doc(doc):
         p = figure(plot_width = 700, plot_height = 700, 
                     title = 'Test data',
                     x_axis_label = 'x label', y_axis_label = 'y label',
-                    x_range = (0, 10), y_range = (0, 10))
+                    x_range = (0, 10), y_range = (0, 10), output_backend="webgl")
 
         #draw graph using data from make_dataset func - note that you have to use a cds
         #and then refer to data via column names
